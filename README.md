@@ -57,4 +57,4 @@
 
 </div>
 <h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=jebintom&theme=tokyo-night"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=anitthomas&theme=tokyo-night"/>
