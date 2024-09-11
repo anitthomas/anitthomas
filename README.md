@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anitthomas" alt="anitthomas" /></a> </p>
 
-<p align="left"> <a href="https://x.com/anit_nellu" target="blank"><img src="https://img.shields.io/twitter/follow/jebintom18?logo=twitter&style=for-the-badge" alt="Anitthomas" /></a> </p>
+<p align="left"> <a href="https://x.com/anit_nellu" target="blank"><img src="https://img.shields.io/twitter/follow/anitthomas6?logo=twitter&style=for-the-badge" alt="Anitthomas" /></a> </p>
 
 - 🌱 I’m currently learning *Web Development*
 
